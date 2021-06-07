@@ -538,7 +538,7 @@ print stack
 ```
 _Output:_
 
-![output](https://user-images.githubusercontent.com/82715927/120991445-45d13c80-c79f-11eb-87e6-8db467c48642.png)
+![Screenshot from 2021-06-07 18-31-02](https://user-images.githubusercontent.com/79329465/121023478-f1d74f80-c7c0-11eb-9664-87eba6a99846.png)
 
 
 ## *17. Write a Python program to implement stack operation using list.*
@@ -670,9 +670,4 @@ print "%d" %(getfullCount(root))
 _Output_
 
 ![Screenshot from 2021-06-07 17-59-16](https://user-images.githubusercontent.com/79329465/121016759-272c6f00-c7ba-11eb-89c2-c055f11617e4.png)
-
-
-
-
-
 
