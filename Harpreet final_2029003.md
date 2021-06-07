@@ -45,16 +45,13 @@ _Output_
 _Code_
 ```python
 arr=[1,2,3,4,5]
-```
-```python
+
 result=list(reversed(arr))
 print"Reversed array using reversed() method : ",result
-```
-```python
+
 res=arr[::-1]
 print"Reversed array using list slicing is : ",res
-```
-```python
+
 arr.reverse()
 print"Reversed array using reverse() method : ",arr
 ```
@@ -63,23 +60,13 @@ _Output_
 ![Screenshot from 2021-06-07 13-34-50](https://user-images.githubusercontent.com/79329465/120981324-32b96f00-c795-11eb-8782-8902af86619c.png)
 
 
-## 3._Write a Python program for sequential or linear search._
-
-_Code_
-
-```python
-
-
-## _Write a Python program to append a new item to the end of the array._
+## 3._Write a Python program to append a new item to the end of the array.._
 
 _code_
 ```python
 A=['mango','orange','banana']
-```
-```python
 B=['pear','grapes','apple']
-```
-```python
+
 A.append(B)
 print A
 ```
@@ -94,8 +81,7 @@ _code_
 
 ```python
 A=[1,2,3,4]
-```
-```python
+
 A.pop(1)
 print" remove a specified item using the index from an array by POP operation: ",A
 ```
@@ -110,8 +96,7 @@ _Code_
 
 ```python
 A=[1,2,3,4,'hello']
-```
-```python
+
 print"Display all elements: ",A
 print"Length of all elements: ",len(A)
 ```
@@ -270,7 +255,7 @@ _code_
 def partition(arr, low, high):
     i = (low-1)         
     pivot = arr[high]     
-  
+    
     for j in range(low, high):
   
         if arr[j] <= pivot:
@@ -303,7 +288,7 @@ _Output_
 ![Screenshot from 2021-06-07 15-38-26](https://user-images.githubusercontent.com/79329465/120999275-90a28280-c7a6-11eb-8fa6-f03eca54dd0b.png)
 
 
-## 12._
+## 12._Write a Python program to create a singly linked list and append some items iterate through the list._
 
 _Code_
 
@@ -555,6 +540,36 @@ _Output:_
 
 ![output](https://user-images.githubusercontent.com/82715927/120991445-45d13c80-c79f-11eb-87e6-8db467c48642.png)
 
+
+## *17. Write a Python program to implement stack operation using list.*
+_Code:_
+```python
+stack = []
+ 
+# append() function to push
+# element in the stack
+stack.append('a')
+stack.append('b')
+stack.append('c')
+ 
+print "Initial stack"
+print(stack)
+ 
+# pop() fucntion to pop
+# element from stack in
+# LIFO order
+print "Elements poped from stack:"
+print(stack.pop())
+print(stack.pop())
+print(stack.pop())
+ 
+print "nStack after elements are poped:"
+print stack
+```
+_Output_
+
+![Screenshot from 2021-06-07 18-31-02](https://user-images.githubusercontent.com/79329465/121021124-acb21e00-c7be-11eb-889e-41777ed98e2f.png)
+
 ## *18. Write a Python program to implement queue and its operations using list.*
 _Code:_
 
@@ -655,6 +670,9 @@ print "%d" %(getfullCount(root))
 _Output_
 
 ![Screenshot from 2021-06-07 17-59-16](https://user-images.githubusercontent.com/79329465/121016759-272c6f00-c7ba-11eb-89c2-c055f11617e4.png)
+
+
+
 
 
 
