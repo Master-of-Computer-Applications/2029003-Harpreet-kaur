@@ -1,3 +1,21 @@
+ -----
+ ## <p align="center">Guru Nanak Dev Engineering College, Ludhiana</p>
+
+
+   ![front](https://user-images.githubusercontent.com/82715927/121130621-4a076380-c84c-11eb-85e0-81619d36d244.png)
+       **<p align="center"> Practical File</p>**
+       **<p align="center"> Of</p>**
+       **<p align="center">"Programming in Python Lab"</p>**
+       **<p align="center">"Course Code: "PGCA 207"</P>**                     
+                                   
+				   
+   <h2 align="left">Submitted to:</h2> 
+     <h3 align="left">Prof. SatinderPal Singh</h3>  <h2 align="right">Submitted by:</h2><h3 align="right">Harpreet Kaur</h3>
+                  	      <h3 align="right"> (MCA 2nd sem.)</h3>
+	<h3 align="right"> URN: 2005220</h3> 
+	<h3 align="right">CRN: 2029003</h3>
+
+
 |  Sr no |  Experiment Name |  Remarks|   
 |---|---|---|
 |  1| Write a Python program to create an array of 5 elements and display the array items Access each individual items through indexes.  |   |   
